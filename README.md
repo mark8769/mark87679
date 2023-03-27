@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React, Spring Boot, NodeJS**
 
-- 👯 I’m looking to collaborate on **Full-stack projects**
-
 - 📫 How to reach me **ortegam@augsburg.edu**
 
 - ⚡ Fun fact **I love learning!**
