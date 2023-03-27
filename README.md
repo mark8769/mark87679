@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mark8769&label=Profile%20views&color=0e75b6&style=flat" alt="mark8769" /> </p>
 
-- 🔭 I’m currently working on [CS50WebProgramming-Commerce](https://github.com/mark8769/CS50WebProgramming-Commerce)
+- 🔭 I’m currently working on [CS50WebProgramming-Commerce](https://github.com/mark8769/CS50WebProgramming-Commerce) but at the moment development is on pause while I have classes.
 
 - 🌱 I’m currently learning **React, Spring Boot, NodeJS**
 
 - 📫 How to reach me **ortegam@augsburg.edu**
 
-- ⚡ Fun fact **I love learning!**
+- ⚡ Fun fact **I love powerlifting!**
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mark8769&&count_private=true&show_icons=true&theme=transparent)
