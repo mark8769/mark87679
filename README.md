@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ortegam@augsburg.edu**
 
-- ⚡ Fun fact **I love powerlifting! Lifting since 2015** [Me Squatting #370 2018](https://www.youtube.com/shorts/LTcXLaOmMfg)   [Deadlifting #335 2016](https://www.youtube.com/watch?v=V4s-DJn9mTU)
+- ⚡ Fun fact **I love powerlifting! Lifting since 2015** [Me Squatting #370 2018](https://www.youtube.com/shorts/LTcXLaOmMfg) | [Deadlifting #335 2016](https://www.youtube.com/watch?v=V4s-DJn9mTU)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mark8769&&count_private=true&show_icons=true&theme=transparent)
