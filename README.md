@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ortegam@augsburg.edu**
 
-- ⚡ Fun fact **I love powerlifting! Lifting since 2015** [Me Squatting #370 2018](https://www.youtube.com/shorts/LTcXLaOmMfg) | [Deadlifting #335 2016](https://www.youtube.com/watch?v=V4s-DJn9mTU) | Sadly no bench videos! All time PR's {Squat:450, Deadlift:475, Bench: 275, BW: 175}. Sadly there is no evidence of this. I tend to listen to rock music for PR's, so taking video's was out of the question, you'll just have to believe me!
+- ⚡ Fun fact **I love powerlifting! I have been Lifting since 2015** [Me Squatting #370 2018](https://www.youtube.com/shorts/LTcXLaOmMfg) | [Deadlifting #335 2016](https://www.youtube.com/watch?v=V4s-DJn9mTU) | Sadly no bench videos! All time PR's {Squat:450, Deadlift:475, Bench: 275, BW: 175}. Sadly there is no evidence of this. I tend to listen to rock music for PR's, so taking video's was out of the question, you'll just have to believe me!
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mark8769&&count_private=true&show_icons=true&theme=transparent)
