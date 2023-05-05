@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CS50WebProgramming-Commerce](https://github.com/mark8769/CS50WebProgramming-Commerce) but at the moment development is on pause while I have classes.
 
-- 🌱 I’m currently looking to learn **React, Spring Boot, NodeJS**
+- 🌱 I’m currently looking to learn **React and Spring Boot**
 
 - 📫 How to reach me **ortegam@augsburg.edu** or LinkedIn!
 
