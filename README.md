@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mark!</h1>
-<h3 align="center">Computer science student graduating from Augsburg University</h3> 
+<h3 align="center">Currently working at Ameriprise Financial</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mark8769&label=Profile%20views&color=0e75b6&style=flat" alt="mark8769" /> </p>
 
-- 🔭 I’m currently working on [CS50WebProgramming-Commerce](https://github.com/mark8769/CS50WebProgramming-Commerce) but at the moment development is on pause while I have classes.
+- 🔭 I’m currently working on [TwitterClone](https://github.com/mark8769/TwitterClone) using the Django Framework for the backend and Javascript/HTML/CSS for the Front end.
 
 - 🌱 I’m currently looking to learn **React and Spring Boot**
 
