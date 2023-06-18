@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [TwitterClone](https://github.com/mark8769/TwitterClone) using the Django Framework for the backend and Javascript/HTML/CSS for the Front end.
 
-- 🌱 I’m currently looking to learn **React and Spring Boot**
+- 🌱 I’m currently looking to learn **React, Spring Boot and Cybersecurity (CS50 new course)**
 
-- 📫 How to reach me **ortegam@augsburg.edu** or LinkedIn!
+- 📫 How to reach me **ortegama313@augsburg.edu** or LinkedIn!
 
 - ⚡ Fun fact **I love powerlifting! I have been Lifting since 2015** [Me Squatting #370 2018](https://www.youtube.com/shorts/LTcXLaOmMfg) | [Deadlifting #335 2016](https://www.youtube.com/watch?v=V4s-DJn9mTU) | Sadly no bench videos! All-time PRs {Squat:450, Deadlift:475, Bench: 275, BW: 175}. Sadly there is no evidence of this. I tend to listen to rock music for PRs. So taking videos was out of the question. You'll just have to believe me!
 
