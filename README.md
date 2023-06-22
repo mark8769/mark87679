@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark!</h1>
-<h3 align="center">Currently working at Ameriprise Financial</h3> 
+<h3 align="center">TDLP Associate at Ameriprise Financial</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mark8769&label=Profile%20views&color=0e75b6&style=flat" alt="mark8769" /> </p>
 
