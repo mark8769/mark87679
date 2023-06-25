@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [TwitterClone](https://github.com/mark8769/TwitterClone) using the Django Framework for the backend and Javascript/HTML/CSS for the Front end.
 
-- 🌱 I’m currently looking to learn **React, Spring Boot and Cybersecurity (CS50 new course)**
+- 🌱 I’m currently looking to learn **React, Spring Boot and Cybersecurity (CS50 new course releasing in October)**
 
 - 📫 How to reach me **ortegama313@augsburg.edu** or LinkedIn!
 
