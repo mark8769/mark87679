@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mark8769&label=Profile%20views&color=0e75b6&style=flat" alt="mark8769" /> </p>
 
-- 🔭 I’m currently working on [TwitterClone](https://github.com/mark8769/TwitterClone) using the Django Framework for the backend and Javascript/HTML/CSS for the Front end.
+- 🔭 I’m currently working on [TwitterClone](https://github.com/mark8769/TwitterClone) using the Django Framework for the backend and Javascript/HTML/CSS for the Front end. (Development on hold)
 
 - 🌱 Currently learning (**React and Spring Boot**). Looking to learn cybersecurity through CS50 Cybersecurity (releasing in October) [Course Link](https://cs50.harvard.edu/cybersecurity/2023/)
 
