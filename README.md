@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I love powerlifting! I have been Lifting since 2015** [Me Squatting #370 2018](https://www.youtube.com/shorts/LTcXLaOmMfg) | [Deadlifting #335 2016](https://www.youtube.com/watch?v=V4s-DJn9mTU) | Sadly no bench videos! All-time PRs {Squat:450, Deadlift:475, Bench: 275, BW: 175}. Sadly there is no evidence of this. I tend to listen to rock music for PRs. So taking videos was out of the question. You'll just have to believe me!
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mark8769&count_private=true&show_icons=true&theme=transparent&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mark8769&&count_private=true&show_icons=true&theme=transparent&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mark8769&langs_count=10&&hide_progress=true&layout=compact&theme=transparent)
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
