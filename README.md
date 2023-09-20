@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mark8769&label=Profile%20views&color=0e75b6&style=flat" alt="mark8769" /> </p>
 
-- 🔭 I’m currently working on [TwitterClone](https://github.com/mark8769/TwitterClone) using the Django Framework for the backend and Javascript/HTML/CSS for the Front end. (Development on hold, finishing before October)
+- 🔭 I’m currently working on [TwitterClone](https://github.com/mark8769/TwitterClone) using the Django Framework for the backend and Javascript/HTML/CSS for the Front end. (Development on hold)
 
-- 🌱 Currently learning (**React, Spring Boot, and Spring Data with Hibernate**). Looking to learn cybersecurity through CS50 Cybersecurity (releasing in October) [Course Link](https://cs50.harvard.edu/cybersecurity/2023/)
+- 🌱 Currently learning (**React, Spring Boot, and Spring Data with Hibernate**). Excited to learn more about cybersecurity through CS50 Cybersecurity (releasing in October) [Course Link](https://cs50.harvard.edu/cybersecurity/2023/)
 
 - 📫 How to reach me **ortegam@alumni.augsburg.edu** or LinkedIn!
 
