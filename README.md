@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mark8769&label=Profile%20views&color=0e75b6&style=flat" alt="mark8769" /> </p>
 
-- 🔭 Currently working on [TwitterClone](https://github.com/mark8769/TwitterClone) using the Django Framework for the backend and Javascript/HTML/CSS for the Front end.
 
 - 🌱 Currently using (**React, Spring Boot, Flask**). Excited to learn more about Cybersecurity through CS50 Cybersecurity (releasing in October) [Course Link](https://cs50.harvard.edu/cybersecurity/2023/) and [Google Cybersecurity cert](https://www.coursera.org/professional-certificates/google-cybersecurity). Also some AWS [Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
