@@ -6,6 +6,8 @@
 
 - 🌱 Currently using (**React, Spring Boot, Flask**). Excited to learn more about Cybersecurity through CS50 Cybersecurity (releasing in October) [Course Link](https://cs50.harvard.edu/cybersecurity/2023/) and [Google Cybersecurity cert](https://www.coursera.org/professional-certificates/google-cybersecurity). Also some AWS [Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a0610f51-c6d1-4e33-a43f-baba5912ce61" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 - 📫 How to reach me **ortegam@alumni.augsburg.edu** or LinkedIn
 
 - ⚡ Fun fact **I love powerlifting! I have been Lifting since 2015** [Me Squatting #370 2018](https://www.youtube.com/shorts/LTcXLaOmMfg) | [Deadlifting #335 2016](https://www.youtube.com/watch?v=V4s-DJn9mTU) | Sadly no bench videos! All-time PRs {Squat:450, Deadlift:475, Bench: 275, BW: 175}. Sadly there is no evidence of this. I tend to listen to rock music for PRs. So taking videos was out of the question. You'll just have to believe me!
