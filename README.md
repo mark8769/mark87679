@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mark8769&label=Profile%20views&color=0e75b6&style=flat" alt="mark8769" /> </p>
 
 
-- 🌱 Currently using (**React, Spring Boot, Flask**). Excited to learn more about Cybersecurity through CS50 Cybersecurity [Course Link](https://cs50.harvard.edu/cybersecurity/2023/) and [Google Cybersecurity cert](https://www.coursera.org/professional-certificates/google-cybersecurity). Also AWS Certified Cloud Practioner working towards my next cert [Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+- 🌱 Currently using (**React, Spring Boot, Flask, AWS Services**). Excited to learn more about Cybersecurity through CS50 Cybersecurity [Course Link](https://cs50.harvard.edu/cybersecurity/2023/) and [Google Cybersecurity cert](https://www.coursera.org/professional-certificates/google-cybersecurity). Also AWS Certified Cloud Practioner working towards my next cert [Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
 - 📫 How to reach me **ortegam@alumni.augsburg.edu** or LinkedIn
 
